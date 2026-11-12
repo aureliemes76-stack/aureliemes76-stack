@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- VOTRE LOGO OUROBOROS DORÉ AUTOMATIQUE DEPUIS VOTRE AVATAR GITHUB -->
-  <img src="https://github.com/aureliemes76-stack.png" alt="Logo Ouroboros Aurélie Meslem" width="170" style="border-radius: 50%;" />
-
   # ✨ AURÉLIE MESLEM ✨
   ### **Architecture des Données • Programmation • Cybersécurité**
   *« Comme l'Ouroboros, chaque fin de cycle nourrit un nouveau départ : 20 ans d'expertise financière réinventés par le code et la Data. »*
@@ -17,8 +14,9 @@
   <br/>
 
   [![Email](https://img.shields.io/badge/Me_Contacter-aurelie.mes76@gmail.com-D4AF37?style=flat-square&logo=gmail&logoColor=black)](mailto:aurelie.mes76@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-aureliemes76--stack-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aureliemes76-stack)
+  [![Dépôts GitHub](https://img.shields.io/badge/Voir_mes_Dépôts_de_Code-aureliemes76--stack-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aureliemes76-stack?tab=repositories)
 
+</div>
 </div>
 
 ---
