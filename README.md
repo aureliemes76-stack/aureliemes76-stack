@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- VOTRE LOGO OUROBOROS DORÉ AUTOMATIQUE DEPUIS VOTRE AVATAR GITHUB -->
-  <img src="https://github.com/aureliemes76-stack.png" alt="Logo Ouroboros Aurélie Meslem" width="170" style="border-radius: 50%;" />
+ <img src="https://images.weserv.nl/?url=https://github.com/aureliemes76-stack.png&mask=circle" alt="Logo Ouroboros Aurélie Meslem" width="160" />
 
   # ✨ AURÉLIE MESLEM ✨
   ### **Architecture des Données • Programmation • Cybersécurité**
